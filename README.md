@@ -1,2 +1,2 @@
 # set-timeout
-A setTimeout alternatives based on requestAnimationFrame method
+A setTimeout alternatives for browser based on requestAnimationFrame method
