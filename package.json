@@ -1,5 +1,5 @@
 {
-  "name": "set-timeout",
+  "name": "@bnice/set-timeout",
   "version": "1.0.0",
   "description": "A setTimeout alternative based on requestAnimationFrame method",
   "main": "./src/index.js",
@@ -48,5 +48,6 @@
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.7.2",
     "webpack-merge": "^4.2.1"
-  }
+  },
+  "dependencies": {}
 }
