@@ -95,8 +95,8 @@ class SetTimeout {
    * Calling this function will start the timer
    * @param {Function|undefined} runnable The function that you would like to run. Default is undefined. And a must have parameter
    * @param {Number} intervalDurationInMs Execute frequently in millisecond. Minimum value is DEFAULT_INTERVAL_TIME_IN_MS
-   * @param {Number} iterationCount Total number of iteration it will execute before stopped default is unlimited
    * @param {Boolean} runImmediate It determines whether you want to execute your function immediately, or after given interval. Default if false
+   * @param {Number} iterationCount Total number of iteration it will execute before stopped. Passing empty or -1 will set to unlimited iteration
    */
   start (
     runnable = undefined,
