@@ -1,9 +1,8 @@
-# set-timeout
-A setTimeout alternatives for browser based on requestAnimationFrame method
+#### A setTimeout alternatives for browser based on requestAnimationFrame method
 
 #### Install package
 ```js
-npm install sized-balanced-tree 
+npm install SetTimeout 
 ```
 
 #### Install devependecies and build library
@@ -37,4 +36,4 @@ npm install sized-balanced-tree
 
 #### API Doc
 
-https://wistful-polish.surge.sh/
+https://bustling-stocking.surge.sh/
