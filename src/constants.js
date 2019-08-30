@@ -1,3 +1,8 @@
 'use strict';
-export const DEFAULT_INTERVAL_TIME_IN_MS = 1000;
-export const DEFAULT_RUN_IMMEDIATE = false;
+const DEFAULT_INTERVAL_TIME_IN_MS = 100;
+const DEFAULT_RUN_IMMEDIATE = false;
+
+module.exports = {
+  DEFAULT_INTERVAL_TIME_IN_MS,
+  DEFAULT_RUN_IMMEDIATE
+};
