@@ -1,5 +1,5 @@
 {
-  "name": "@bnice/set-timeout",
+  "name": "set-timeout2",
   "version": "1.0.0",
   "description": "A setTimeout alternative based on requestAnimationFrame method",
   "main": "./src/index.js",

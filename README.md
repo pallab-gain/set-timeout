@@ -2,7 +2,7 @@
 
 #### Install package
 ```js
-npm install @bnice/set-timeout 
+npm install set-timeout2 
 ```
 
 #### Install devependecies and build library
