@@ -1,9 +1,9 @@
 'use strict';
 
-import {
+const {
   DEFAULT_INTERVAL_TIME_IN_MS,
   DEFAULT_RUN_IMMEDIATE
-} from './constants';
+} = './constants';
 
 /**
  * SetTimeout main class holder
@@ -116,4 +116,4 @@ class SetTimeout {
   }
 }
 
-export { SetTimeout };
+module.exports = SetTimeout;
